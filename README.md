@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JohanMidthaug
+- 👋 Hi, I’m @JohanMidthaug  
 - 👀 I’m interested in programming :) 
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming in C++
 - 📫 How to reach me: johanmi@stud.ntnu.no
 
 <!---
